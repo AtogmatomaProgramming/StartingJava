@@ -1,0 +1,4 @@
+Codifica una nueva excepción Java que se lance cuando un número de teléfono sea erróneo, 
+considerando que es erróneo si no empieza por 6, 7 o 9 o si no tiene 9 dígitos.
+Haz un programa que pida al usuario un número de teléfono y que lance la nueva 
+excepción creada cuando corresponda.
